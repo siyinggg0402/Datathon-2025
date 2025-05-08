@@ -61,3 +61,9 @@ Check versions:
 ```bash
 python --version
 pip --version
+
+---
+
+##Acknowledgements
+Thanks to NUS Statistics and Data Science Society for organising this datathon, as well as my teammates Amelia Lon Hwee Min and Vivien Chin for working together in this project. 
+
