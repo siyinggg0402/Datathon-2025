@@ -56,6 +56,7 @@ The dataset provided contained company-related data such as number of employees,
 - Python 3.8+ → [Download here](https://www.python.org/downloads/)
 - `pip` (comes with Python)
 - `virtualenv` (optional, for isolated environments)
+- Refer to `requirements.txt` for the packages to be installed before running the code
 
 Check versions:
 ```bash
